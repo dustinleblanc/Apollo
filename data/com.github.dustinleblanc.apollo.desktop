@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Apollo
+GenericName=Digital Audio Workstation
+Comment=Provides a easy to use environment for creating music with real instruments
+Categories=Sound & Video;
+Exec=com.github.dustinleblanc.apollo
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=apollo
+Keywords=DAW;Music;Recording;Audio;

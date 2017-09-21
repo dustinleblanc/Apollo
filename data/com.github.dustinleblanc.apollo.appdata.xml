@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Dustin LeBlanc <dustin.m.leblanc@gmail.com> -->
+<component type="desktop">
+  <id>com.github.dustinleblanc.apollo.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Apollo</name>
+  <summary>Amazingly Simple Music Production</summary>
+  <description>
+    <p>Quickly record, edit, and mix killer music.</p>
+  </description>
+</component>
